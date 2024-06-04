@@ -1,0 +1,1 @@
+Some websites have infinite scrollers instead of pages. So in order to scrape thousands of data, we have to automate scrolling downwards otherwise it will be difficult for us us to manually scroll and scrape at the same time.
